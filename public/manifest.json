@@ -1,0 +1,24 @@
+{
+  "short_name": "Easy Mover",
+  "name": "partners in every period of your life",
+  "description": "descreption",
+  "icons": [
+    {
+      "src": "./assets/images/eulring-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./assets/images/eulring-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fc637f",
+  "display": "Fullscreen",
+  "scope": "/",
+  "theme_color": "#fc637f"
+}
